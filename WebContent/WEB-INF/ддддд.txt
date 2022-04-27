@@ -1,0 +1,14 @@
+1. Napred levo na ivici krova, pognuta 9 stepeni ka dole i 22 stepena vertikalno na put koji se nadgleda. (najidealnije, ali nigde u nekom dokumentu nisu naveli idealna podešavanja.
+
+2. Za brzinu su rekli da nije toliko bitna, kao ni mod koji se postavlja (city, parking, highway) jedina razlika je u frejmovima koje snapshot-uje, kada se podesi highway on nema problem ni za gradsku vožnju. (tako bar kažu)
+
+3. Što se tiče algoritma, ništa nisu podelili sa nama, takođe ovo što si napisao za tehničku dokumentaciju same kamere je tačno, ništa konkretno ne piše, mršava je veoma.
+
+4. Njihova preporučena podešavanja su navedena u poslednjem mejlu, najbolje je da se kamera vertialno pomeri ka putu koji se snima za 22 stepena i 9 stepeni ka dole. 
+
+5. Optički uslovi, ništa nije navedeno, možda su rekli tokom DEMO-a, ali nisam ispratio.
+
+6. Takođe moramo da pitamo
+
+7. Nisam siguran na šta se misli, ja mislim da je ovo univerzalno, za podešavanja.
+

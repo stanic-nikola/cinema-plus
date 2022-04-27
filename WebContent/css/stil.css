@@ -1,0 +1,96 @@
+.dugmici{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#naslov{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e4ffe2;
+    text-shadow: black 2px 2px;
+}
+
+#poruka{
+    font-size:16px;
+    color:red;
+}
+
+body{
+    background-color: #3c5ac4;
+}
+#registracija{
+    background-color: #3e8f3e;
+    border: #3e8f3e;
+}
+
+#prijava{
+    margin-right: 30px;
+    border: #2aabd2;
+}
+
+#prijava, #registracija, #prijavise, #registrujse, #potvrdi, #resetuj{
+    width: 120px;
+}
+
+#prijavise{
+    background-color: #2aabd2;
+    border: #2aabd2;
+}
+
+#registrujse{
+    margin-right: 30px;
+    border: #3e8f3e;
+    background-color: #3e8f3e;
+}
+
+#potvrdi{
+    margin-right: 30px;
+    background-color: #dda434;
+    border: #dda434;
+}
+
+#resetuj{
+    margin-right: 30px;
+    background-color: #55a955;
+    border: #55a955;
+}
+
+#zaboravljenaLozinka{
+    margin-left: 2px;
+}
+
+#porukaUspeh{
+    font-size:16px;
+    color:#3e8f3e;
+}
+
+.row{
+    margin: auto;
+    max-width: 100%;
+}
+
+#daLiJeAdmin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 70px;
+    margin-top: -21px;
+}
+
+#label-custom{
+    margin-left: 3px;
+}
+
+.row{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+}
+

@@ -1,0 +1,16 @@
+.center{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+}
+
+.duka {
+  width: 480px;
+  margin: 100 100 100 100;
+  border: 3px solid #73AD21;
+}
+
